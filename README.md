@@ -1,13 +1,3 @@
 ## Header
 
-
-some text
-some text
-some text
-some text
-some text
-
-
-Something here is a new thigi
-
-Added some more lines
+## THIS IS MASTER FILE
