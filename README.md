@@ -8,8 +8,10 @@ some text
 some text
 
 
-Something here is a new thigi
+No more Thingy
 
+Added some more lines
+Added some more lines
 Added some more lines
 Added some more lines
 Added some more lines
